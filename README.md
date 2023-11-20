@@ -5,10 +5,10 @@
 👽 **Aditya Mishra, aka Forneus**
 
 
-💻 **Programmer, Game Developer, Java Lover**
+💻 **Programmer, Software Tester & Developer, Java Lover**
 
 
-🚀 **Android Developer**
+🚀 **Software Developer & Tester**
 
 
 🐍 **Busy with Coding**
