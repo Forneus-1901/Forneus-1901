@@ -23,7 +23,7 @@
 👯 **Seeking skill improvement**
 
 
-🔭 **2023 Goal: Contribute to Open Source**
+🔭 **2024 Goal: Contribute to Open Source**
 
 
 ⚡ **Fun Fact: Singing, Sketching, Animation**
