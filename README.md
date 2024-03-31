@@ -17,7 +17,7 @@
 🌱 **Learning everything**
 
 
-📱 **Exploring .NET**
+📱 **Exploring Selenium + Java**
 
 
 👯 **Seeking skill improvement**
