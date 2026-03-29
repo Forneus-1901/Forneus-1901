@@ -1,8 +1,6 @@
 👋 Hi, I'm Aditya Mishra (Forneus)
 
-Forneus-1901/Forneus-1901 is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
-
-👨‍💻 Aditya Mishra, QA Engineer / SDET
+👨‍💻 Aditya Mishra, Software Development Engineer in Test (SDET) / QA Engineer
 
 💻 Automation Engineer | Software Tester | Developer
 
