@@ -1,32 +1,33 @@
-### 😌 What's up Guys! I'm Aditya Mishra, but you can call me Forneus 👋
+👋 Hi, I'm Aditya Mishra (Forneus)
 
-**Forneus-1901/Forneus-1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Forneus-1901/Forneus-1901 is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 
-👽 **Aditya Mishra, aka Forneus**
+👨‍💻 Aditya Mishra, QA Engineer / SDET
 
+💻 Automation Engineer | Software Tester | Developer
 
-💻 **Programmer, Software Tester & Developer, Java Lover**
+🚀 Designing scalable, maintainable automation frameworks and ensuring system reliability at scale
 
+🧠 Strong in end-to-end testing, system validation, and quality engineering practices
 
-🚀 **Software Developer & Tester**
+🤖 Hands-on with AI/LLM testing, prompt validation, and intelligent test design
 
+⚙️ Selenium | Playwright | API Testing | Performance Testing | Framework Design
 
-🐍 **Busy with Coding**
+📊 Data Validation | Data Pipeline Testing | POI & Behavioral Data Analysis
 
+🔗 API Testing (Postman) | Request/Response Validation | Schema & Edge Case Testing
 
-🌱 **Learning everything**
+🧪 Functional | Regression | Smoke | Sanity | Integration Testing
 
+📈 Performance Testing (JMeter) | Monitoring & Debugging (Splunk, Logs, Queries)
 
-📱 **Exploring Selenium + Java**
+🐍 Java | JavaScript | Python | SQL
 
+🛠️ Presto | Trino | Superset | Git | Jira | Test Case Design (BVA, EP)
 
-👯 **Seeking skill improvement**
+🌱 Focused on advancing in SDET practices, automation architecture, and AI-driven testing
 
+🔭 Goal: Build intelligent, self-sustaining testing systems & contribute to open source
 
-🔭 **2024 Goal: Contribute to Open Source**
-
-
-⚡ **Fun Fact: Singing, Sketching, Animation**
-
-
-✨ **Let's connect on GitHub for coding adventures!**
+✨ Open to collaboration, challenging problems, and impactful engineering work
